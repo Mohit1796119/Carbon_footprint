@@ -8,3 +8,7 @@ app_port: 7860
 
 Flask app that calculates a simple carbon footprint from electricity, gas, car travel, and flights.
 
+
+Deployed on Huggingfaces Spaces
+https://huggingface.co/spaces/Mohit1796119/CarbonFootprint
+
